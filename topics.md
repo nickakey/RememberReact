@@ -60,4 +60,4 @@
 * How would you pass width and height of browser element to react?
 * Redux-Saga vs. Redux-Thunk vs. Redux
 * Difference between element and component
-* how do arrow functions affect the "voice" binding
+* how do arrow functions affect the "this" binding
