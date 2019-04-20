@@ -27,12 +27,12 @@
 * What are children in react?
 * Use case for Props.Children
 * What version of React are you familiar with?
-* What is the most recent version of React?
+* What is the most recent version of React?
 * Difference between class and functional component?
 * What is a higher order component in React?
 * What can you do with higher order components?
 * What does production mode do in React
-* How do you tell React to build in production mode 
+* How do you tell React to build in production mode 
 
 * What is an alternative of binding this in the constructor
 * What are controlled components?
